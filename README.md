@@ -265,7 +265,7 @@ predict_image(model, image_index=25, dataset=test_dataset)
 
 ## Training Loss, Validation Loss Vs Iteration Plot
 
-<img width="889" height="53" alt="image" src="https://github.com/user-attachments/assets/52e7d5f7-acf1-4153-8914-fd5e1cb93d60" />
+<img width="889" height="70" alt="image" src="https://github.com/user-attachments/assets/52e7d5f7-acf1-4153-8914-fd5e1cb93d60" />
 <img width="975" height="620" alt="image" src="https://github.com/user-attachments/assets/c64a8013-c613-4668-ad47-fb3007397ff7" />
 
 
